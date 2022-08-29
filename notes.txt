@@ -1,3 +1,5 @@
 cargo new helloworld
 
+cargo run (runs it)
+cargo check (Checks for errors)
 
