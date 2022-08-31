@@ -3,3 +3,4 @@ cargo new helloworld
 cargo run (runs it)
 cargo check (Checks for errors)
 
+rustfmt file.exe (cleans up code formatting)
